@@ -5,6 +5,7 @@ One folder per game, so a new game doesn't need its own legal repo.
 
 | Game | Support URL | Privacy URL |
 |---|---|---|
+| Carom Legends | https://pedrovinicio.github.io/all-legal/carom-legends/support.html | https://pedrovinicio.github.io/all-legal/carom-legends/privacy.html |
 | Riot Racers | https://pedrovinicio.github.io/all-legal/riot-racers/support.html | https://pedrovinicio.github.io/all-legal/riot-racers/privacy.html |
 | Gold Rush: World Games | https://pedrovinicio.github.io/all-legal/gold-rush/support.html | https://pedrovinicio.github.io/all-legal/gold-rush/privacy.html |
 
@@ -23,5 +24,11 @@ One folder per game, so a new game doesn't need its own legal repo.
 `riot-racers/` was moved here from `pedrovinicio/riot-racers-legal` (Nov 2026). That repo stays online until every
 store listing and the AdMob consent message point here, since the Riot Racers 1.0/1.1 listings still use its URLs.
 
-`gold-rush/` was moved here from `pedrovinicio/gold-rush-legal` (Nov 2026), with its history. Gold Rush 1.1 is the first
-release to use these URLs; keep `gold-rush-legal` online until the store listing and AdMob consent message point here.
+`gold-rush/` was moved here from `pedrovinicio/gold-rush-legal` (Nov 2026), with its history. **The upcoming Gold Rush
+release must use the `all-legal/gold-rush/` URLs above** for App Store Connect's Support URL and Privacy Policy URL and
+the AdMob consent message's privacy URL; keep `gold-rush-legal` online until then, after which it can be archived.
+
+`carom-legends/` was moved here from `pedrovinicio/carom-legends-legal` (Nov 2026). The Carom Legends 1.0 listing still
+uses the old repo's URLs, so keep that repo online. **The next Carom Legends release (1.1) must switch App Store Connect's
+Support URL and Privacy Policy URL, and the AdMob consent message's privacy URL, to the `all-legal/carom-legends/` URLs
+above**; once 1.1 is live, the old repo can be archived.
