@@ -6,6 +6,7 @@ One folder per game, so a new game doesn't need its own legal repo.
 | Game | Support URL | Privacy URL |
 |---|---|---|
 | Riot Racers | https://pedrovinicio.github.io/all-legal/riot-racers/support.html | https://pedrovinicio.github.io/all-legal/riot-racers/privacy.html |
+| Gold Rush: World Games | https://pedrovinicio.github.io/all-legal/gold-rush/support.html | https://pedrovinicio.github.io/all-legal/gold-rush/privacy.html |
 
 ## Adding a game
 
@@ -21,3 +22,6 @@ One folder per game, so a new game doesn't need its own legal repo.
 
 `riot-racers/` was moved here from `pedrovinicio/riot-racers-legal` (Nov 2026). That repo stays online until every
 store listing and the AdMob consent message point here, since the Riot Racers 1.0/1.1 listings still use its URLs.
+
+`gold-rush/` was moved here from `pedrovinicio/gold-rush-legal` (Nov 2026), with its history. Gold Rush 1.1 is the first
+release to use these URLs; keep `gold-rush-legal` online until the store listing and AdMob consent message point here.
